@@ -35,6 +35,7 @@ A **simple Instagram post downloader** built with **Puppeteer**. This script all
   - **Temporary fix:** Run the script **without logging in** and try downloading public posts.  
 - **Private account posts require login**, but this feature may not work correctly at the moment.
 - **Username retrieval may fail**, causing images to be saved under **unknown_user**.
+- Only works for actual posts, but not for videos
 
 ## 📜 License  
 This project is **open-source**. Feel free to contribute!  
