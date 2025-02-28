@@ -1,4 +1,4 @@
-r# Instagram-Post-Downloader
+# Instagram-Post-Downloader
 
 A **simple Instagram post downloader** built with **Puppeteer**. This script allows users to download all images from any public post (or private post if logged in) and saves them in a structured folder based on the username.  It saves posts without using Instagram's API, often overcomplicating things. Instead, it saves images almost like a screenshot, working more smoothly and with fewer issues.
 
