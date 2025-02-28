@@ -5,8 +5,7 @@ A **simple Instagram post downloader** built with **Puppeteer**. This script all
 ## 📌 Features  
 ✅ **Downloads all images from an Instagram post**  
 ✅ **Handles multiple images in a post (carousel support)**  
-✅ **Skips low-quality images (under 50KB)**  
-✅ **Keeps asking for new links until you exit**  
+✅ **Allows for multiple links until you exit**  
 ✅ **Stores images in a folder named after the Instagram user**  
 
 ## 🚀 Installation & Usage  
