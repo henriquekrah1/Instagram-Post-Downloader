@@ -1,0 +1,17 @@
+{
+  "name": "insta-saver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^34.3.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^24.3.0"
+  }
+}
