@@ -17,7 +17,7 @@ A **simple Instagram post downloader** built with **Puppeteer**. This script all
 ### **2️⃣ Download & Install Dependencies**  
 - **Clone the repository** or **download the ZIP**  
 - Extract the files  
-- **Run `run_instasaver.bat`** (This will install dependencies and start the script)  
+- **Run `run_instagram_downloader.bat`** (This will install dependencies and start the script)  
 
 ### **3️⃣ Using the Script**  
 - After running `run_instasaver.bat`, the script will ask:  
