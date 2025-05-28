@@ -21,7 +21,7 @@ A **simple Instagram post downloader** built with **Puppeteer**. This script all
 ### **3️⃣ Using the Script**  
 - After running `run_instasaver.bat`, the script will ask:  
   `Would you like to log in to Instagram? (Y/N):`  
-  - **Press `Y`** if you want to download from private accounts (⚠️ **Login is currently not working properly!** See Known Issues).  
+  - **Press `Y`** if you want to download from private accounts.  
   - **Press `N`** to proceed without logging in.  
 - Then, paste an **Instagram post URL**.  
 - The script will download and save the images.  
@@ -30,11 +30,9 @@ A **simple Instagram post downloader** built with **Puppeteer**. This script all
 
 
 ## ⚠️ Known Issues  
-- **Login functionality is currently unreliable.** Logged-in users may experience **issues with image detection**. If you log in, you might get `Found 0 image(s) in the post.`  
-  - **Temporary fix:** Run the script **without logging in** and try downloading public posts.  
-- **Private account posts require login**, but this feature may not work correctly at the moment.
+- **Images under "More Posts From..." are downloaded.** The script will often download extra images that are not from the desired post. 
 - **Username retrieval may fail**, causing images to be saved under **unknown_user**.
-- Only works for actual posts, but not for videos
+- Only works for actual posts, but not for videos (or Reels)
 
 ## 📜 License  
 This project is **open-source**. Feel free to contribute!  
